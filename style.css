@@ -1,0 +1,16 @@
+body{
+    background-image: url(https://static7.depositphotos.com/1040018/732/i/450/depositphotos_7324797-stock-photo-black-dark-leather-wall-and.jpg);   
+    background-size: cover;
+    color: white;
+    font-family: monospace;
+}
+#container{
+  width: 40%;
+    margin: auto;
+    background-color: #000000a0;
+    padding: 20px;
+}
+h1, h2, h3, h4, h5, h6{
+    text-align: center;
+    font-style: fantastic;
+}
